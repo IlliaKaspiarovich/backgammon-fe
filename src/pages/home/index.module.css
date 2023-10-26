@@ -1,0 +1,10 @@
+.contentWrapper > h1 {
+  width: max-content;
+  margin: 100px auto;
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.contentWrapper > button {
+  margin: 20px auto;
+}
